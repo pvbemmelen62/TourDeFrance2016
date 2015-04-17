@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Usage</title>
+<style type="text/css">
+  body {
+    font-family: fontFamilyPlaceHolder, Arial, sans-serif;
+    /* font-size: fontSizePlaceHolder; */
+    font-size: 12pt;
+    text-align: left;
+    margin: 10px;
+  }
+  p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  li {
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+</style>
+</head>
+<body>
+<h1>Table of contents</h1>
+<p>
+<a href="#generalInfo">General info</a><br/>
+<a href="#enterSudoku">How to enter sudoku numbers</a><br/>
+<a href="#searchSolutions">Search for solutions</a><br/>
+</p>
+<h2><a id="generalInfo" name="generalInfo">General info</a></h2>
+<p>
+This program allows you to enter a sudoku of size 9 or size 16, and then you
+can click a button to start the search for solutions to the sudoku.
+</p>
+<p>This program handles only sudokus of the simple variant:
+<ul>
+<li>each column must contain the numbers 1 ... size;</li>
+<li>each row must contain the numbers 1 ... size;</li>
+<li>each subrectangle must contain the numbers 1 ... size; for sudoku size 9, the subrectangles have size 3; and for sudoku size 16, the subrectangles have
+size 4.</li>
+</ul>
+</p>
+<p>While the program is searching for a solution, it shows the numbers that
+it is trying.</p>
+<h2><a id="enterSudoku" name="enterSudoku">How to enter a sudoku numbers</a></h2>
+<p>
+To enter a new sudoku, select File->New... ; next choose the size; and then enter numbers
+from the keyboard. Those numbers will be fixed during the search for a solution.
+</p>
+<p>You can only enter numbers while the search for a solution has not yet started;
+i.e. "step count" must be 0. When you can enter numbers, the drawing will show
+a cursor (a small vertical line) in the cell where the number will go.
+</p>
+<p>You can use the arrow keys to move the cursor, the digit keys to enter numbers,
+and the backspace key to delete a digit.
+</p>
+<p>If you have clicked one of the toggles (see below), the drawing where you
+enter numbers will have lost the keyboard focus; you can tell because the cursor,
+will be gone. In that case click on the drawing, to give it keyboard focus again. 
+</p>
+<p>While entering numbers, the program will block any input that violates the
+sudoku rules. This means that if you entered "1" somewhere in a row, that you
+can not enter "12" any more, because to enter "12", you first need to type "1"
+and then "2".<br/>
+To get around this problem, enter "1" only after you have entered any "10", "11", ... "16".
+</p>
+<h2><a id="searchSolutions" name="searchSolutions">Search for solutions</a></h2>
+<p>
+You can click on the "Step" button, and the program will perform one step forward
+in its search for a solution.</p>
+<p>
+Or you can click the "Start" button, and the program will keep on stepping until
+it has found a (next) solution, or until it has found that there is no more next
+solution.<br/>
+The "Start" button, when clicked, will change into a "Stop" button so that clicking
+it again, will stop the search.
+</p>
+<p>The speed with which the program searches a solution, can be reduced by
+increasing the delay with the horizontal slider control.
+</p>
+<p>For fastest speed, choose delay 0. Then, the speed with which the program searches a solution,
+will be higher if the program does not update the drawing of the sudoku at every step.</p>
+<p>
+Therefore, the program allows you to disable the redrawing, by disabling the
+"Refresh cells" toggle.<br/>
+When you click the "Step" button for a single step, the redrawing always occurs,
+irrespective of the toggle.
+</p>
+<p>
+Similarly, you can disable the redrawing of the "step count".
+</p>
+<p>
+When you have disabled both toggles, and you click the "Start" button, you
+can not directly see the progress.<br/>
+But you can see when the program has found a solution, or has found that there
+is no solution, by looking at the "Start/Stop" button.
+While the program is searching the button will have label "Stop" ; and when the
+search has stopped, the label will show "Start" again.
+</p>
+</body>
+</html>

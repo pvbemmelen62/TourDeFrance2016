@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="sudoku2/export/sudoku-bin.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/sudoku2/sudoku-bin.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=sudoku2/src&lt;nl.xs4all.pvbemmel.sudoku.gui{SudokuApplication.java[SudokuApplication" manifestLocation="/sudoku2/export/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=sudoku2/&lt;html"/>
+        <file path="/sudoku2/images/logo-25-percent.png"/>
+        <file path="/sudoku2/images/logo-50-percent.png"/>
+        <javaElement handleIdentifier="=sudoku2/src"/>
+    </selectedElements>
+</jardesc>

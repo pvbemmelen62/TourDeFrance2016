@@ -1,0 +1,5 @@
+
+Google: java swing animation of algorithm
+
+See:
+  /CoreJava8Horstmann/src/v1ch14/AlgorithmAnimation/AlgorithmAnimation.java

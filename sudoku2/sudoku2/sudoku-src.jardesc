@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="sudoku2/export/sudoku-src.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/sudoku2/sudoku-src.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=sudoku2/&lt;images"/>
+        <javaElement handleIdentifier="=sudoku2/&lt;doc"/>
+        <javaElement handleIdentifier="=sudoku2/&lt;html"/>
+        <javaElement handleIdentifier="=sudoku2/&lt;data"/>
+        <javaElement handleIdentifier="=sudoku2/src"/>
+    </selectedElements>
+</jardesc>

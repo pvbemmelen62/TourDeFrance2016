@@ -1,0 +1,15 @@
+sudokuVersion: 1.0
+size: 9
+nextRow: 0
+nextCol: 0
+stepCount: 0
+backingUp: false
+                   +2      
+ +5 +1 +7 +9       +3      
+    +8       +1            
+          +8 +6 +1         
+       +6 +5               
+    +2                +3   
+ +1       +7          +4   
+ +9                   +6 +2
+                   +7 +5   
