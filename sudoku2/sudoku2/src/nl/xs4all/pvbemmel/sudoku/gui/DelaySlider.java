@@ -31,13 +31,46 @@ public class DelaySlider extends JSlider {
     setLabelTable(labelTable);
     setPaintLabels(true);
   }
+  /**
+   * Get delay in seconds.
+   */
   public double getDelay() {
-    int value = getValue();
+    double delay = valueToDelay(getValue());
+    return delay;
+  }
+  /**
+   * Set delay in seconds.
+   */
+  public void setDelay(double delay) {
+    int value = delayToValue(delay);
+    setValue(value);
+  }
+  private double valueToDelay(int value) {
     if(value<30) {
       return 0.0;
     }
     double logValue = valueToLog.getValue(value);
     double delay = Math.pow(10.0, logValue);
     return delay;
+  }
+  public int delayToValue(double delay) {
+    if(delay<=0.0) {
+      return 0;
+    }
+    double logValue = Math.log10(delay);
+    double d = logToValue.getValue(logValue);
+    int value = (int)d;
+    return value;
+  }
+  static class Test {
+    public static void main(String[] args) {
+      DelaySlider slider = new DelaySlider();
+      for(int i=0; i<300; ++i) {
+        double delay = slider.valueToDelay(i);
+        int value = slider.delayToValue(delay);
+        String s = String.format("%10d  -->  %10g  -->  %10d", i, delay, value);
+        System.out.println(s);
+      }
+    }
   }
 }
