@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<teams>
+    <team>
+        <name>TEAM SKY (GBR)</name>
+        <managers>
+            <manager>PORTAL Nicolas</manager>
+            <manager>KNAVEN Servais</manager>
+        </managers>
+        <cyclist>
+            <name>FROOME Christopher</name>
+            <number>1</number>
+            <country>gbr</country>
+        </cyclist>
+        <cyclist>
+            <name>HENAO Sergio Luis</name>
+            <number>2</number>
+            <country>col</country>
+        </cyclist>
+        <cyclist>
+            <name>KIRYIENKA Vasili</name>
+            <number>3</number>
+            <country>blr</country>
+        </cyclist>
+        <cyclist>
+            <name>LANDA Mikel</name>
+            <number>4</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>NIEVE Mikel</name>
+            <number>5</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>POELS Wouter</name>
+            <number>6</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>ROWE Luke</name>
+            <number>7</number>
+            <country>gbr</country>
+        </cyclist>
+        <cyclist>
+            <name>STANNARD Ian</name>
+            <number>8</number>
+            <country>gbr</country>
+        </cyclist>
+        <cyclist>
+            <name>THOMAS Geraint</name>
+            <number>9</number>
+            <country>gbr</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>MOVISTAR TEAM (ESP)</name>
+        <managers>
+            <manager>ARRIETA Jose Luis</manager>
+            <manager>GARCIA ACOSTA Vicente</manager>
+        </managers>
+        <cyclist>
+            <name>QUINTANA Nairo</name>
+            <number>11</number>
+            <country>col</country>
+        </cyclist>
+        <cyclist>
+            <name>VALVERDE Alejandro</name>
+            <number>12</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>ANACONA GOMEZ Winner Andrew</name>
+            <number>13</number>
+            <country>col</country>
+        </cyclist>
+        <cyclist>
+            <name>ERVITI Imanol</name>
+            <number>14</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>HERRADA Jesús</name>
+            <number>15</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>IZAGUIRRE Gorka</name>
+            <number>16</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>IZAGUIRRE Ion</name>
+            <number>17</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>MORENO FERNANDEZ Daniel</name>
+            <number>18</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>OLIVEIRA Nelson</name>
+            <number>19</number>
+            <country>por</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>ASTANA PRO TEAM (KAZ)</name>
+        <managers>
+            <manager>FOFONOV Dmitriy</manager>
+            <manager>MARTINELLI Giuseppe</manager>
+        </managers>
+        <cyclist>
+            <name>ARU Fabio</name>
+            <number>21</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>NIBALI Vincenzo</name>
+            <number>22</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>FUGLSANG Jakob</name>
+            <number>23</number>
+            <country>den</country>
+        </cyclist>
+        <cyclist>
+            <name>GRIVKO Andriy</name>
+            <number>24</number>
+            <country>ukr</country>
+        </cyclist>
+        <cyclist>
+            <name>KANGERT Tanel</name>
+            <number>25</number>
+            <country>est</country>
+        </cyclist>
+        <cyclist>
+            <name>LUTSENKO Alexey</name>
+            <number>26</number>
+            <country>kaz</country>
+        </cyclist>
+        <cyclist>
+            <name>ROSA Diego</name>
+            <number>27</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>SANCHEZ GIL Luis-Leon</name>
+            <number>28</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>TIRALONGO Paolo</name>
+            <number>29</number>
+            <country>ita</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>TINKOFF (RUS)</name>
+        <managers>
+            <manager>DE JONGH Steven</manager>
+            <manager>YATES Sean</manager>
+        </managers>
+        <cyclist>
+            <name>CONTADOR Alberto</name>
+            <number>31</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>SAGAN Peter</name>
+            <number>32</number>
+            <country>svk</country>
+        </cyclist>
+        <cyclist>
+            <name>BODNAR Maciej</name>
+            <number>33</number>
+            <country>pol</country>
+        </cyclist>
+        <cyclist>
+            <name>GATTO Oscar</name>
+            <number>34</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>KISERLOVSKI Robert</name>
+            <number>35</number>
+            <country>cro</country>
+        </cyclist>
+        <cyclist>
+            <name>KREUZIGER Roman</name>
+            <number>36</number>
+            <country>cze</country>
+        </cyclist>
+        <cyclist>
+            <name>MAJKA Rafal</name>
+            <number>37</number>
+            <country>pol</country>
+        </cyclist>
+        <cyclist>
+            <name>TOSATTO Matteo</name>
+            <number>38</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>VALGREN ANDERSEN Michael</name>
+            <number>39</number>
+            <country>den</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>AG2R LA MONDIALE (FRA)</name>
+        <managers>
+            <manager>JURDIE Julien</manager>
+            <manager>GOUBERT Stephane</manager>
+        </managers>
+        <cyclist>
+            <name>BARDET Romain</name>
+            <number>41</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>BAKELANTS Jan</name>
+            <number>42</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>CHEREL Mikael</name>
+            <number>43</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>DUMOULIN Samuel</name>
+            <number>44</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>GASTAUER Ben</name>
+            <number>45</number>
+            <country>lux</country>
+        </cyclist>
+        <cyclist>
+            <name>GAUTIER Cyril</name>
+            <number>46</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>GOUGEARD Alexis</name>
+            <number>47</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>POZZOVIVO Domenico</name>
+            <number>48</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>VUILLERMOZ Alexis</name>
+            <number>49</number>
+            <country>fra</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>TEAM LOTTO NL - JUMBO (NED)</name>
+        <managers>
+            <manager>ZEEMAN Merijn</manager>
+            <manager>MAASSEN Frans</manager>
+        </managers>
+        <cyclist>
+            <name>KELDERMAN Wilco</name>
+            <number>51</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>BENNETT George</name>
+            <number>52</number>
+            <country>nzl</country>
+        </cyclist>
+        <cyclist>
+            <name>GROENEWEGEN Dylan</name>
+            <number>53</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>LINDEMAN Bert Jan</name>
+            <number>54</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>MARTENS Paul</name>
+            <number>55</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>ROOSEN Timo</name>
+            <number>56</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>VANMARCKE Sep</name>
+            <number>57</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>WAGNER Robert</name>
+            <number>58</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>WYNANTS Maarten</name>
+            <number>59</number>
+            <country>bel</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>TREK - SEGAFREDO (USA)</name>
+        <managers>
+            <manager>ANDERSEN Kim</manager>
+            <manager>GALLOPIN Alain</manager>
+        </managers>
+        <cyclist>
+            <name>MOLLEMA Bauke</name>
+            <number>61</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>CANCELLARA Fabian</name>
+            <number>62</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>IRIZAR Markel</name>
+            <number>63</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>RAST Gregory</name>
+            <number>64</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>SCHLECK Frank</name>
+            <number>65</number>
+            <country>lux</country>
+        </cyclist>
+        <cyclist>
+            <name>STETINA Peter</name>
+            <number>66</number>
+            <country>usa</country>
+        </cyclist>
+        <cyclist>
+            <name>STUYVEN Jasper</name>
+            <number>67</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>THEUNS Edward</name>
+            <number>68</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>ZUBELDIA Haimar</name>
+            <number>69</number>
+            <country>esp</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>IAM CYCLING (SUI)</name>
+        <managers>
+            <manager>CARLSTRÖM Kjell</manager>
+            <manager>CHIESA Mario</manager>
+        </managers>
+        <cyclist>
+            <name>FRANK Mathias</name>
+            <number>71</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>CLEMENT Stef</name>
+            <number>72</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>COPPEL Jérôme</name>
+            <number>73</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>ELMIGER Martin</name>
+            <number>74</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>ENGER Sondre Holst</name>
+            <number>75</number>
+            <country>nor</country>
+        </cyclist>
+        <cyclist>
+            <name>HOLLENSTEIN Reto</name>
+            <number>76</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>HOWARD Leigh</name>
+            <number>77</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>NAESEN Oliver</name>
+            <number>78</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>PANTANO Jarlinson</name>
+            <number>79</number>
+            <country>col</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>CANNONDALE DRAPAC TEAM (USA)</name>
+        <managers>
+            <manager>WEGELIUS Charles</manager>
+            <manager>KLIER Andreas</manager>
+        </managers>
+        <cyclist>
+            <name>ROLLAND Pierre</name>
+            <number>81</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>BRESCHEL Matti</name>
+            <number>82</number>
+            <country>den</country>
+        </cyclist>
+        <cyclist>
+            <name>CRADDOCK Lawson</name>
+            <number>83</number>
+            <country>usa</country>
+        </cyclist>
+        <cyclist>
+            <name>HOWES Alex</name>
+            <number>84</number>
+            <country>usa</country>
+        </cyclist>
+        <cyclist>
+            <name>KOREN Kristijan</name>
+            <number>85</number>
+            <country>slo</country>
+        </cyclist>
+        <cyclist>
+            <name>LANGEVELD Sebastian</name>
+            <number>86</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>NAVARDAUSKAS Ramunas</name>
+            <number>87</number>
+            <country>ltu</country>
+        </cyclist>
+        <cyclist>
+            <name>SLAGTER Tom Jelte</name>
+            <number>88</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>VAN BAARLE Dylan</name>
+            <number>89</number>
+            <country>ned</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>BMC RACING TEAM (USA)</name>
+        <managers>
+            <manager>LEDANOIS Yvon</manager>
+            <manager>PIVA Valerio</manager>
+        </managers>
+        <cyclist>
+            <name>PORTE Richie</name>
+            <number>91</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>BOOKWALTER Brent</name>
+            <number>92</number>
+            <country>usa</country>
+        </cyclist>
+        <cyclist>
+            <name>BURGHARDT Marcus</name>
+            <number>93</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>CARUSO Damiano</name>
+            <number>94</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>DENNIS Rohan</name>
+            <number>95</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>MOINARD Amaël</name>
+            <number>96</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>SCHÄR Michael</name>
+            <number>97</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>VAN AVERMAET Greg</name>
+            <number>98</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>VAN GARDEREN Tejay</name>
+            <number>99</number>
+            <country>usa</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>TEAM DIMENSION DATA (RSA)</name>
+        <managers>
+            <manager>HAMMOND Roger</manager>
+            <manager>HEYNDERRICKX Jean-Pierre</manager>
+        </managers>
+        <cyclist>
+            <name>CAVENDISH Mark</name>
+            <number>101</number>
+            <country>gbr</country>
+        </cyclist>
+        <cyclist>
+            <name>BERHANE Natnael</name>
+            <number>102</number>
+            <country>eri</country>
+        </cyclist>
+        <cyclist>
+            <name>BOASSON HAGEN Edvald</name>
+            <number>103</number>
+            <country>nor</country>
+        </cyclist>
+        <cyclist>
+            <name>CUMMINGS Stephen</name>
+            <number>104</number>
+            <country>gbr</country>
+        </cyclist>
+        <cyclist>
+            <name>EISEL Bernhard</name>
+            <number>105</number>
+            <country>aut</country>
+        </cyclist>
+        <cyclist>
+            <name>JANSE VAN RENSBURG Reinardt</name>
+            <number>106</number>
+            <country>rsa</country>
+        </cyclist>
+        <cyclist>
+            <name>PAUWELS Serge</name>
+            <number>107</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>RENSHAW Mark</name>
+            <number>108</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>TEKLEHAIMANOT Daniel</name>
+            <number>109</number>
+            <country>eri</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>TEAM GIANT-ALPECIN (GER)</name>
+        <managers>
+            <manager>REEF Marc</manager>
+            <manager>VISBEEK Aike</manager>
+        </managers>
+        <cyclist>
+            <name>BARGUIL WARREN</name>
+            <number>111</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>CURVERS Roy</name>
+            <number>112</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>DEGENKOLB John</name>
+            <number>113</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>DUMOULIN Tom</name>
+            <number>114</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>GESCHKE Simon</name>
+            <number>115</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>PREIDLER Georg</name>
+            <number>116</number>
+            <country>aut</country>
+        </cyclist>
+        <cyclist>
+            <name>SINKELDAM Ramon</name>
+            <number>117</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>TEN DAM Laurens</name>
+            <number>118</number>
+            <country>ned</country>
+        </cyclist>
+        <cyclist>
+            <name>TIMMER Albert</name>
+            <number>119</number>
+            <country>ned</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>FDJ (FRA)</name>
+        <managers>
+            <manager>MADIOT Yvon</manager>
+            <manager>BRICAUD Thierry</manager>
+        </managers>
+        <cyclist>
+            <name>PINOT Thibaut</name>
+            <number>121</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>BONNET William</name>
+            <number>122</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>LADAGNOUS Matthieu</name>
+            <number>123</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>MORABITO Steve</name>
+            <number>124</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>PINEAU Cedric</name>
+            <number>125</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>REICHENBACH Sébastien</name>
+            <number>126</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>ROUX Anthony</name>
+            <number>127</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>ROY Jérémy</name>
+            <number>128</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>VICHOT Arthur</name>
+            <number>129</number>
+            <country>fra</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>BORA-ARGON 18 (GER)</name>
+        <managers>
+            <manager>POITSCHKE Enrico</manager>
+            <manager>SCHULZE Andre</manager>
+        </managers>
+        <cyclist>
+            <name>BUCHMANN Emanuel</name>
+            <number>131</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>ARCHBOLD Shane</name>
+            <number>132</number>
+            <country>nzl</country>
+        </cyclist>
+        <cyclist>
+            <name>BARTA Jan</name>
+            <number>133</number>
+            <country>cze</country>
+        </cyclist>
+        <cyclist>
+            <name>BENEDETTI Cesare</name>
+            <number>134</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>BENNETT Sam</name>
+            <number>135</number>
+            <country>irl</country>
+        </cyclist>
+        <cyclist>
+            <name>HUZARSKI Bartosz</name>
+            <number>136</number>
+            <country>pol</country>
+        </cyclist>
+        <cyclist>
+            <name>KONRAD Patrick</name>
+            <number>137</number>
+            <country>aut</country>
+        </cyclist>
+        <cyclist>
+            <name>SCHILLINGER Andreas</name>
+            <number>138</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>VOSS Paul</name>
+            <number>139</number>
+            <country>ger</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>TEAM KATUSHA (RUS)</name>
+        <managers>
+            <manager>AZEVEDO José</manager>
+            <manager>KONYSHEV Dmitry</manager>
+        </managers>
+        <cyclist>
+            <name>RODRIGUEZ OLIVER Joaquin</name>
+            <number>141</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>GUARNIERI Jacopo</name>
+            <number>142</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>HALLER Marco</name>
+            <number>143</number>
+            <country>aut</country>
+        </cyclist>
+        <cyclist>
+            <name>KRISTOFF Alexander</name>
+            <number>144</number>
+            <country>nor</country>
+        </cyclist>
+        <cyclist>
+            <name>LOSADA Alberto</name>
+            <number>145</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>MORKOV Michael</name>
+            <number>146</number>
+            <country>den</country>
+        </cyclist>
+        <cyclist>
+            <name>VAN DEN BROECK Jurgen</name>
+            <number>147</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>VICIOSO Angel</name>
+            <number>148</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>ZAKARIN Ilnur</name>
+            <number>149</number>
+            <country>rus</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>LAMPRE - MERIDA (ITA)</name>
+        <managers>
+            <manager>MAUDUIT Philippe</manager>
+            <manager>SCIREA Mario</manager>
+        </managers>
+        <cyclist>
+            <name>FARIA DA COSTA Rui Alberto</name>
+            <number>151</number>
+            <country>por</country>
+        </cyclist>
+        <cyclist>
+            <name>ARASHIRO Yukiya</name>
+            <number>152</number>
+            <country>jpn</country>
+        </cyclist>
+        <cyclist>
+            <name>BONO Matteo</name>
+            <number>153</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>CIMOLAI Davide</name>
+            <number>154</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>DURASEK Kristijan</name>
+            <number>155</number>
+            <country>cro</country>
+        </cyclist>
+        <cyclist>
+            <name>GRMAY Tsgabu Gebremaryam</name>
+            <number>156</number>
+            <country>eth</country>
+        </cyclist>
+        <cyclist>
+            <name>MEINTJES Louis</name>
+            <number>157</number>
+            <country>rsa</country>
+        </cyclist>
+        <cyclist>
+            <name>PIBERNIK Luka</name>
+            <number>158</number>
+            <country>slo</country>
+        </cyclist>
+        <cyclist>
+            <name>POLANC Jan</name>
+            <number>159</number>
+            <country>slo</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>LOTTO SOUDAL (BEL)</name>
+        <managers>
+            <manager>FRISON Herman</manager>
+            <manager>LEYSEN Bart</manager>
+        </managers>
+        <cyclist>
+            <name>GREIPEL André</name>
+            <number>161</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>BAK Lars Ytting</name>
+            <number>162</number>
+            <country>den</country>
+        </cyclist>
+        <cyclist>
+            <name>DE GENDT Thomas</name>
+            <number>163</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>DEBUSSCHERE Jens</name>
+            <number>164</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>GALLOPIN Tony</name>
+            <number>165</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>HANSEN Adam</name>
+            <number>166</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>HENDERSON Gregory</name>
+            <number>167</number>
+            <country>nzl</country>
+        </cyclist>
+        <cyclist>
+            <name>ROELANDTS Jurgen</name>
+            <number>168</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>SIEBERG Marcel</name>
+            <number>169</number>
+            <country>ger</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>DIRECT ENERGIE (FRA)</name>
+        <managers>
+            <manager>ENGOULVENT Jimmy</manager>
+            <manager>LEBRETON Lylian</manager>
+        </managers>
+        <cyclist>
+            <name>COQUARD Bryan</name>
+            <number>171</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>CHAVANEL Sylvain</name>
+            <number>172</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>DUCHESNE Antoine</name>
+            <number>173</number>
+            <country>can</country>
+        </cyclist>
+        <cyclist>
+            <name>GENE Yohann</name>
+            <number>174</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>JEANDESBOZ Fabrice</name>
+            <number>175</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>PETIT Adrien</name>
+            <number>176</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>SICARD Romain</name>
+            <number>177</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>TULIK ANGÉLO</name>
+            <number>178</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>VOECKLER Thomas</name>
+            <number>179</number>
+            <country>fra</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>ETIXX-QUICK STEP (BEL)</name>
+        <managers>
+            <manager>STEELS Tom</manager>
+            <manager>BRAMATI Davide</manager>
+        </managers>
+        <cyclist>
+            <name>KITTEL Marcel</name>
+            <number>181</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>ALAPHILIPPE Julian</name>
+            <number>182</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>KEISSE Iljo</name>
+            <number>183</number>
+            <country>bel</country>
+        </cyclist>
+        <cyclist>
+            <name>MARTIN Daniel</name>
+            <number>184</number>
+            <country>irl</country>
+        </cyclist>
+        <cyclist>
+            <name>MARTIN Tony</name>
+            <number>185</number>
+            <country>ger</country>
+        </cyclist>
+        <cyclist>
+            <name>RICHEZE Ariel Maximiliano</name>
+            <number>186</number>
+            <country>arg</country>
+        </cyclist>
+        <cyclist>
+            <name>SABATINI Fabio</name>
+            <number>187</number>
+            <country>ita</country>
+        </cyclist>
+        <cyclist>
+            <name>VAKOC Petr</name>
+            <number>188</number>
+            <country>cze</country>
+        </cyclist>
+        <cyclist>
+            <name>VERMOTE Julien</name>
+            <number>189</number>
+            <country>bel</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>COFIDIS, SOLUTIONS CREDITS (FRA)</name>
+        <managers>
+            <manager>ROUS Didier</manager>
+            <manager>JONROND Jean-Luc</manager>
+        </managers>
+        <cyclist>
+            <name>NAVARRO Daniel</name>
+            <number>191</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>BOZIC Borut</name>
+            <number>192</number>
+            <country>slo</country>
+        </cyclist>
+        <cyclist>
+            <name>COUSIN Jérome</name>
+            <number>193</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>EDET Nicolas</name>
+            <number>194</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>JEANNESSON Arnold</name>
+            <number>195</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>LAPORTE Christophe</name>
+            <number>196</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>LEMOINE Cyril</name>
+            <number>197</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>MATE MARDONES Luis Angel</name>
+            <number>198</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>SOUPE GEOFFREY</name>
+            <number>199</number>
+            <country>fra</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>ORICA-BIKEEXCHANGE (AUS)</name>
+        <managers>
+            <manager>WHITE Matthew</manager>
+            <manager>LAPAGE Laurenzo</manager>
+        </managers>
+        <cyclist>
+            <name>GERRANS Simon</name>
+            <number>201</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>ALBASINI Michael</name>
+            <number>202</number>
+            <country>sui</country>
+        </cyclist>
+        <cyclist>
+            <name>DURBRIDGE Luke</name>
+            <number>203</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>HAYMAN Mathew</name>
+            <number>204</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>IMPEY Daryl</name>
+            <number>205</number>
+            <country>rsa</country>
+        </cyclist>
+        <cyclist>
+            <name>JUUL-JENSEN Christopher</name>
+            <number>206</number>
+            <country>den</country>
+        </cyclist>
+        <cyclist>
+            <name>MATTHEWS Michael</name>
+            <number>207</number>
+            <country>aus</country>
+        </cyclist>
+        <cyclist>
+            <name>PLAZA MOLINA Ruben</name>
+            <number>208</number>
+            <country>esp</country>
+        </cyclist>
+        <cyclist>
+            <name>YATES Adam</name>
+            <number>209</number>
+            <country>gbr</country>
+        </cyclist>
+    </team>
+    <team>
+        <name>FORTUNEO - VITAL CONCEPT (FRA)</name>
+        <managers>
+            <manager>HINAULT Sébastien</manager>
+            <manager>TREHIN Roger</manager>
+        </managers>
+        <cyclist>
+            <name>SEPULVEDA Eduardo</name>
+            <number>211</number>
+            <country>arg</country>
+        </cyclist>
+        <cyclist>
+            <name>BREEN Vegard</name>
+            <number>212</number>
+            <country>nor</country>
+        </cyclist>
+        <cyclist>
+            <name>DELAPLACE Anthony</name>
+            <number>213</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>FEILLU Brice</name>
+            <number>214</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>FONSECA Armindo</name>
+            <number>215</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>MC LAY DANIEL</name>
+            <number>216</number>
+            <country>gbr</country>
+        </cyclist>
+        <cyclist>
+            <name>PERICHON Pierre-Luc</name>
+            <number>217</number>
+            <country>fra</country>
+        </cyclist>
+        <cyclist>
+            <name>SORENSEN Chris Anker</name>
+            <number>218</number>
+            <country>den</country>
+        </cyclist>
+        <cyclist>
+            <name>VACHON Florian</name>
+            <number>219</number>
+            <country>fra</country>
+        </cyclist>
+    </team>
+</teams>
